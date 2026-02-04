@@ -1,0 +1,10 @@
+Time and Space Complexity
+
+Operation	                        Time Complexity
+Access by index ----------------------- O(1)
+Traverse (loop) ----------------------- O(n)
+Search (unsorted) --------------------- O(n)
+Insert at end (push) ------------------ O(1) amortized
+Insert at start/middle ---------------- O(n)
+Delete at end (pop) ------------------- O(1)
+Delete at start/middle ---------------- O(n)
